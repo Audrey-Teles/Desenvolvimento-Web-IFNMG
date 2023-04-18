@@ -2,12 +2,12 @@
     background-color: orange;
 }
 
-/*Comentário*/
-
+/* Exemplo do uso do id*/
 #first{
     color: yellow;
 }
 
+/* Exemplo do uso da class*/
 .title{
     color: aliceblue;
 }
