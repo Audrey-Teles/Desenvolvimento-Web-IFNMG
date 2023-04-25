@@ -1,22 +1,20 @@
-*{
-  margin-top: 30px;  
-  margin-left: 30px;
-}
-
 body{
-    background-color: gray;
+    margin: -5px;
 }
 
-/* Exemplo do uso do id*/
-#first{
-    color: yellow;
+.nav-list{
+    list-style: none;
+    display: flex;
+    background-color: rgba(111, 168, 111, 0.634);
+    margin-left: 0px;
 }
 
-.paragrafo{
-    color: purple ;
+.item-lista{
+    margin: 30px;
 }
 
-/* Exemplo do uso da class*/
-.title{
-    color: aliceblue;
+a{
+    text-decoration: none;   
+    color: black;
 }
+
